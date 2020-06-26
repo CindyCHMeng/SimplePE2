@@ -1,5 +1,5 @@
 # SimplePE2
-Simple PE2(Personal Editor II) on Windows in C for practice.
+Simple PE2(Personal Editor II) on Windows in C for practice only.
 
 ## Function
 ![image](https://github.com/CindyCHMeng/SimplePE2/blob/master/Doc/PE2_Function.png)
